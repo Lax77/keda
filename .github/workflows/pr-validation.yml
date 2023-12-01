@@ -124,7 +124,7 @@ jobs:
 
       - name: Set up Docker Buildx
         if: steps.filter.outputs.tools == 'true'
-        uses: docker/setup-buildx-action@v2
+        uses: docker/setup-buildx-action@v3
 
       - name: Build tools
         if: steps.filter.outputs.tools == 'true'
