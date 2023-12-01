@@ -24,7 +24,7 @@ require (
 	github.com/dysnix/predictkube-libs v0.0.4-0.20220717101015-44c816c4fb9c
 	github.com/dysnix/predictkube-proto v0.0.0-20220713123213-7135dce1e9c9
 	github.com/elastic/go-elasticsearch/v7 v7.17.1
-	github.com/go-logr/logr v1.2.3
+	github.com/go-logr/logr v1.3.0
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.6.0
@@ -66,7 +66,7 @@ require (
 	k8s.io/apiserver v0.24.3
 	k8s.io/client-go v0.24.3
 	k8s.io/code-generator v0.24.3
-	k8s.io/klog/v2 v2.70.2-0.20220707122935-0990e81f1a8f
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/kube-openapi v0.0.0-20220328201542-3ee0da9b0b42
 	k8s.io/metrics v0.24.3
 	knative.dev/pkg v0.0.0-20220826162920-93b66e6a8700
